@@ -1,0 +1,15 @@
+﻿  figure.cpp
+C:\VSPrograms\Practice1_Num3\figure.cpp(20,67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(26,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(27,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(28,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(29,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(30,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(73,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(74,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(75,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(76,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(94,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(95,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\VSPrograms\Practice1_Num3\figure.cpp(96,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Practice1_Num3.vcxproj -> C:\VSPrograms\Practice1_Num3\x64\Debug\Practice1_Num3.exe
