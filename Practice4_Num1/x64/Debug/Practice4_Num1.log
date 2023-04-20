@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\VSPrograms\Practice4_Num1\main.cpp(18,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\VSPrograms\Practice4_Num1\main.cpp(25,32): warning C4305: аргумент: усечение из "double" в "float"
+  My_class.cpp
+  Создание кода...
+  Practice4_Num1.vcxproj -> C:\VSPrograms\Practice4_Num1\x64\Debug\Practice4_Num1.exe
