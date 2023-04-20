@@ -1,0 +1,5 @@
+﻿  main.cpp
+  rational.cpp
+  Создание кода...
+C:\VSPrograms\Practice2_Num3\rational.cpp(78): warning C4715: rational::nok: значение возвращается не при всех путях выполнения
+  Practice2_Num3.vcxproj -> C:\VSPrograms\Practice2_Num3\x64\Debug\Practice2_Num3.exe
